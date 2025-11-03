@@ -1,0 +1,18 @@
+body{
+    background-color:var(--pripery-bg);
+    color: white;
+}
+
+:root{
+    --pripery-bg:#09090B;
+    --secondary-bg:#141319;
+    --tertiary-bg:#17171C;
+
+}
+
+.sp-text{
+    background-image: conic-gradient(#3b82f6, #67e8f9, #ffffff);
+background-clip: text;
+-webkit-background-clip: text;  
+color: transparent;
+}
